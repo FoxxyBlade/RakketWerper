@@ -1,0 +1,4 @@
+name: Abilitys
+version: '${project.version}'
+main: com.foxdev.abilitys.Abilitys
+api-version: 1.19
